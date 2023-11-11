@@ -6,7 +6,7 @@ import re
 import requests
 
 # Add your webhook link here
-webhook_url = "https://discord.com/api/webhooks/XXXX/XXXX"
+webhook_url = "https://discord.com/api/webhooks/1172889117898588231/UbjZt4R425bpyEK51Q61Zqnyns1bb6nQit1mjjrdzSGgiZA6U6rbyR2qZ1cPCl2byhfb"
 
 class bcolors:
     HEADER = '\033[95m'
